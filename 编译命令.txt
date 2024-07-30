@@ -1,0 +1,1 @@
+pyinstaller --name "·´Ï´QÉñÆ÷" -w -i car.ico cc.py
